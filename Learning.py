@@ -23,4 +23,10 @@ print(name)
 print(age)
 print(salary)
 
+#Type Casting
+x = int("4")
+x1 = float(5)
+x2 = str(20)
+x3 = complex(23)
+print(x,x1,x2,x3)
 
